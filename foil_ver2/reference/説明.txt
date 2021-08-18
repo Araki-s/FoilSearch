@@ -1,0 +1,7 @@
+プログラムの絶対パスをこのディレクトリ（reference)にしておく
+
+Attenuation:核種ごとの質量吸収係数をまとめたフォルダ（必要に応じて核種を追加する必要あり）
+density.csv:核種の密度[g/cm3]を描いたcsvファイル（必要に応じて核種を追加する必要あり）
+efficiency.txt:Ge検出器のエネルギーごとの検出効率書いたファイル（タブ区切り）
+Gammas_molded.csv:原子番号、質量数、順位、ガンマ線のエネルギー、放出比、半減期を書いたcsvファイル（http://nucleardata.nuclear.lu.se/toi/perchart.htm）（（必要に応じて核種を追加する必要あり））
+NIST.txt:NISTからダウンロードした核種の同位体の存在比や平均原子量（追加する必要なし）
